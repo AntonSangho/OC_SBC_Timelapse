@@ -72,14 +72,7 @@ fswebcam -d /dev/video0 /[사진경로]
 fswebcam -d /dev/video0 -l 10 test-%Y-%m-%d--%H-%M-%S.jpg
 ```
 
-## 업로드  
-1. upload
+# 참고
+- [Using a standard USB webcam](https://www-users.york.ac.uk/~mjf5/shed_cam/src/USB%20webcam.html)
 
-# 동작영상 
 
-Here's a video outlining how it works and a timelapse of it looking after a plant for a week:
-
-[![Mod demo](https://img.youtube.com/vi/E6wkvTG2Ofs/0.jpg)](https://www.youtube.com/watch?v=E6wkvTG2Ofs "Video Title")
-
-# 라이센스 
-[GPL 3.0](https://olis.or.kr/license/Detailselect.do?lId=1072&mapCode=010072)
